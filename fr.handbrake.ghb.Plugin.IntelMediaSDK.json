@@ -2,7 +2,7 @@
     "app-id": "fr.handbrake.ghb.Plugin.IntelMediaSDK",
     "branch": "1",
     "runtime": "fr.handbrake.ghb",
-    "runtime-version": "development",
+    "runtime-version": "stable",
     "sdk": "org.gnome.Sdk//45",
     "build-extension": true,
     "separate-locales": false,
